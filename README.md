@@ -2,7 +2,7 @@
 This is Poker Game, which is fully done with plain Python. This is implemented with Test Driven Development method. I studied Python &amp; Test Driven Method and implemented this. This has all logics of Poker Game. But i didn't include Betting system. If any interested to include those, you are most welcome !
 
 <p align="center">
-  <img width="70%" src="Outputs/main.png">
+  <img width="70%" src="Outputs/main.png"><br>
   <i>Ran 52 Tests Successfully !</i>
 </p>
 
